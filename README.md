@@ -1,6 +1,6 @@
-📚 Quiz Interativo em React
+📚 Quizz Interativo em React
 
-Este é um projeto de Quiz interativo desenvolvido em React, que permite aos usuários responder perguntas com um sistema de temporizador e feedback imediato.
+Este é um projeto de Quizz interativo desenvolvido em React, que permite aos usuários responder perguntas com um sistema de temporizador e feedback imediato.
 
 📸 Capturas de Tela
 
